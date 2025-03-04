@@ -1,0 +1,2 @@
+# machine_learning_basics_and_practices
+KAIST EE214 25spring
